@@ -1,3 +1,1 @@
-# Scripts for computational neuroscience
-
-Simple Python scripts for learning in computational neuroscience
+# Documenting my progression in data science
