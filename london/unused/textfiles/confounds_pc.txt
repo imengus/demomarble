@@ -1,0 +1,1 @@
+EH, EX, NE', 'NG', 'NP', 'TN', 'NR', 'NN', 'WA', 'WD', 'WF', 'WN', 'WR', 'WS', 'WV'
