@@ -1,6 +1,4 @@
-# Datascientific projects go here!
-
-## London
+# Demographic Marble on London
 ### Background
 Daydreaming, I imagined dropping a marble onto a heatmap of London. Normally if you drop something on a flat surface, it is unexciting; however I imagined that the most populous areas would be the most elevated in this 3d heatmap. Hence, I could simulate a marble tracing the route of fastest escape to the countryside.
 
